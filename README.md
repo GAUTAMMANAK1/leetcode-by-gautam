@@ -10,7 +10,7 @@ Data structures and algorithms are fundamental concepts in computer science and 
 
 ## Daily Progress 📈
 
-You can find my daily progress in the [LeetCode directory](https://www.linkedin.com/in/gautammanak1/) on my [LeetCode profile](https://www.linkedin.com/in/gautammanak1/). Each day, I will be adding a new folder with the date as its name, and inside each folder, you will find:
+You can find my daily progress in the [LeetCode directory]((https://leetcode.com/GAUTAMANAK1/)) on my [Linkedin profile](https://www.linkedin.com/in/gautammanak1/). Each day, I will be adding a new folder with the date as its name, and inside each folder, you will find:
 
 - Code implementations
 - Explanations and comments
